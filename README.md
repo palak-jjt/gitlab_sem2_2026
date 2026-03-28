@@ -1,1 +1,4 @@
+HEAD
 Line from main branch
+Line from conflict branch
+ conflict-branch
